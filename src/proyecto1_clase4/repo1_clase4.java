@@ -12,5 +12,6 @@ public class repo1_clase4 {
     public static void main (String[] args){
         System.out.println("Integracion y despliegue continuo"); 
         System.out.println("Actualizacion");
+        System.out.println("Actualizacion 2");
     }
 }
