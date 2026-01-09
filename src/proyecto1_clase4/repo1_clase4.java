@@ -15,5 +15,6 @@ public class repo1_clase4 {
         System.out.println("Actualizacion 3");
         System.out.println("Actualizacion 6");
         System.out.println("Actualizacion 9");
+        System.out.println("Actualizacion 12");
     }
 }
